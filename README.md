@@ -8,6 +8,10 @@
 
 ---
 
+*"One degree of freedom is the minimum amount required for stability." — CJ*
+
+---
+
 ## What This Does
 
 Prevents cascading drift without backtracking. A lock-aware operator that projects any recursive system state onto its nearest admissible checkpoint in at most log₁₀(s) steps. One degree of freedom. Guaranteed termination.
@@ -133,8 +137,4 @@ License: CC BY 4.0
 
 © 2025 Carolina Johnson (CJ)
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
-Attribution required. https://creativecommons.org/licenses/by/4.0/
-
----
-
-*"One degree of freedom is the minimum amount required for stability." — CJ*
+Attribution required.
